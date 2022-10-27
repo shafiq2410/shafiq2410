@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shafiq2410
 - 👀 I’m interested in Programming,Cyber Security, Machine Learning, Artificial Intellegnece, Block Chain Technology & latest technologies    
-- 🌱 I’m currently learning Cyber security
-- 💞️ I’m looking to collaborate on new technology
+- 🌱 I’m currently learning Cyber security.
+- 💞️ I’m looking to collaborate on new technology.
 - 📫 How to reach me: You can reach me through email: shafiq2410@gmail.com & through my blogsite: https://shafiq2410.wordpress.com/
 
 <!---
